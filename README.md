@@ -26,8 +26,16 @@ Kết nối lại sau khi đạt 4,2 MB (mặc định) để cải thiện tố
 B1" mở Termux (link tải https://www.mediafire.com/file/c5e5hzsnibhyx9p/Termux_0.119.1_thuanht567.apk yêu cầu phiên bản MỚI NHẤT Termux 119 các phiên bản khác sẽ bị thiếu các gói nên xuất hiện lỗi và không thể cài đặt thành công ) chạy lệnh sau:
 Chú ý chọn 1 trong 2 lệnh cài đặt dưới:
 --**Lệnh 1 tự động cài xong chỉ dùng được chương trình Brainfuck tunnel:
+
+
 bash <(curl -fsSL https://raw.githubusercontent.com/thuanht567/v2/main/install567.sh)
+
+bash <(curl -fsSL https://raw.githubusercontent.com/Kiyoshi2006/v2/main/install567.sh)
+
+
 -**Lệnh 2 cài xong phải nhập " t " để chạy Brainfuck tunnel khi không dùng vẫn dùng được termux bình thường
+
+
 bash <(curl -fsSL https://raw.githubusercontent.com/thuanht567/v2/main/567ta.sh)
 
 +++ GỠ termux trước đó và cài đặt lại để tránh xung đột, lệnh cập nhật ngày 3/3/2024
